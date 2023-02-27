@@ -20,8 +20,8 @@ Node.js v12 or higher
 2. Install the required dependencies by running npm install in the root directory of the project.
 3. Start the application by running npm start. The application should now be accessible at http://localhost:3000.
 
-Usage
-To use the application, simply navigate to http://localhost:3000 in your web browser. From there, you can view the most popular books and authors, search for books, and view detailed information about individual books. If you wish to check out or return a book, you will need to create an account and log in to the application.
+## Usage
+To use the application, simply navigate to http://localhost:3000 in your web browser. From there, you can view the most popular books and authors, and view detailed information about individual books.
 
-Contributing
+## Contributing
 If you would like to contribute to this project, please feel free to fork the repository and submit a pull request. All contributions are welcome!
